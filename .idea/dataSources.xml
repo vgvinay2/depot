@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1523008367">
+    <data-source source="LOCAL" name="Rails depot: development" uuid="851a9f37-32bf-43cd-a5d4-3ddc2ff3494a">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:mydepot_db</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

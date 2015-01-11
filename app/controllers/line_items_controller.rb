@@ -48,7 +48,8 @@ class LineItemsController < ApplicationController
 
     respond_to do |format|
       if @line_item.save
-        format.html { redirect_to(@line_item.cart) }
+      debugger
+        format.html { redirect_to(@cart) }
 
       else
         format.html { render :action => "new" }
